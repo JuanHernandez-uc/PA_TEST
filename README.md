@@ -29,19 +29,19 @@ Guia experiencia Programación avanzada
 
 ![alt text](img/repo_creation.png)
 
-1. Invita a los otros integrantes de tu grupo
+2. Invita a los otros integrantes de tu grupo
 
 ![alt text](img/repo_add_others.png)
 
-1. Clona el repositorio que te entregamos escribiendo `git clone https://github.com/benjahuenchunir/PA_TEST.git` en la terminal de codespaces, deberían aparecer las carpetas
+3. Clona el repositorio que te entregamos escribiendo `git clone https://github.com/benjahuenchunir/PA_TEST.git` en la terminal de codespaces, deberían aparecer las carpetas
 
-2. Copia el codigo que de la seccion que dice push an existing repository y ejecutalo en la terminal
+4. Copia el codigo que de la seccion que dice push an existing repository y ejecutalo en la terminal
 
-3. Haz un primer commit agregando el git ignore y push
+5. Haz un primer commit agregando el git ignore y push
 
-4. Si recargas la pagina del repositorio deberias ver que aparece el archivo .gitignore creado
+6. Si recargas la pagina del repositorio deberias ver que aparece el archivo .gitignore creado
 
-5. El resto de los integrantes debe clonar el repositorio que creaste en su entorno de codespaces, para esto escribir en la consola `git clone https://github.com/nombre_usuario/nombre_repo.git` (lo pueden encontrar en ...)
+7. El resto de los integrantes debe clonar el repositorio que creaste en su entorno de codespaces, para esto escribir en la consola `git clone https://github.com/nombre_usuario/nombre_repo.git` (lo pueden encontrar en ...)
 
 ### 6. Soluciona los desafios y guarda los cambios
 
